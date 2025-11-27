@@ -1,4 +1,3 @@
-Repository Description:
 This project analyzes Blinkit’s outlet establishment and sales performance data to uncover actionable insights into product categories, outlet types, and customer behavior. Using Python, SQL, Power BI, and Excel, the dataset was cleaned, modeled, and visualized to support decision-making in retail operations.
 Key Features:
 - 🔍 Data Cleaning & ETL: Automated pipelines for accurate and consistent data preparation.
